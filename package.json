@@ -3,6 +3,9 @@
 	"displayName": "real-theme",
 	"description": "Use real theme for VS Code",
 	"keywords": ["vscode", "plugin", "theme"],
+	"repository": {
+		"url": "https://github.com/LockingReal/real-theme.git"
+	},
 	"version": "0.0.9",
 	"publisher": "lockingreal",
 	"engines": {
