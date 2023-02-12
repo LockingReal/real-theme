@@ -2,14 +2,16 @@
 	"name": "real-theme",
 	"displayName": "real-theme",
 	"description": "Use real theme for VS Code",
-	"version": "0.0.1",
+	"keywords": ["vscode", "plugin", "theme"],
+	"version": "0.0.9",
 	"publisher": "lockingreal",
 	"engines": {
 		"vscode": "^1.74.0"
 	},
 	"categories": [
-		"Other"
+		"Themes"
 	],
+	"icon": "images/logo.png",
 	"license": "MIT",
 	"activationEvents": [],
 	"main": "./out/extension.js",
