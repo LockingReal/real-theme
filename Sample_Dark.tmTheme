@@ -31,7 +31,7 @@
 				<key>lineHighlight</key>
 				<string>#444444</string>
 				<key>rangeHighlight</key>
-				<string>#F3F0F5</string>
+				<string>#579572</string>
 
 				<key>selection</key>
 				<string>#440608C0</string>
@@ -362,7 +362,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#f280d0</string>
 			</dict>
 		</dict>
 	</array>
