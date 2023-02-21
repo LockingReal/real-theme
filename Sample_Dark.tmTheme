@@ -36,21 +36,21 @@
 				<key>selection</key>
 				<string>#440608C0</string>
 				<key>inactiveSelection</key>
-				<string>#E8F3FF</string>
+				<string>#579572</string>
 				<key>selectionHighlight</key>
-				<string>#E8F3FF</string>
+				<string>#579572</string>
 
 				<key>findRangeHighlight</key>
-				<string>#E8F3FF</string>
+				<string>#579572</string>
 				<key>findMatchHighlight</key>
-				<string>#EA5C0080</string>
+				<string>#579572</string>
 				<key>currentFindMatchHighlight</key>
-				<string>#515C6A80</string>
+				<string>#579572</string>
 
 				<key>wordHighlight</key>
-				<string>#77577740</string>
+				<string>#579572</string>
 				<key>wordHighlightStrong</key>
-				<string>#97597740</string>
+				<string>#579572</string>
 
 				<key>activeLinkForeground</key>
 				<string>#4E94CE</string>
@@ -67,6 +67,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#C0C0C0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>variable property</string>
+			<key>scope</key>
+			<string>variable.other.property</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8abcd1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -200,6 +211,7 @@
 				<string>#ddbb88</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Function argument</string>
@@ -224,6 +236,19 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#bc84a8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Type name</string>
+			<key>scope</key>
+			<string>entity.name.type</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#0f95b0</string>
 			</dict>
 		</dict>
 		<dict>

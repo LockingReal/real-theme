@@ -6,7 +6,7 @@
 	"repository": {
 		"url": "https://github.com/LockingReal/real-theme.git"
 	},
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"publisher": "lockingreal",
 	"engines": {
 		"vscode": "^1.74.0"
